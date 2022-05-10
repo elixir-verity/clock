@@ -1,8 +1,8 @@
-defmodule VerityClockTest do
+defmodule Verity.ClockTest do
   use ExUnit.Case
-  doctest VerityClock
+  doctest Verity.Clock
 
   test "greets the world" do
-    assert VerityClock.hello() == :world
+    assert Verity.Clock.hello() == :world
   end
 end
