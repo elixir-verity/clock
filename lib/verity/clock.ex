@@ -1,6 +1,6 @@
-defmodule VerityClock do
+defmodule Verity.Clock do
   @moduledoc """
-  Documentation for `VerityClock`.
+  Documentation for `Verity.Clock`.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule VerityClock do
 
   ## Examples
 
-      iex> VerityClock.hello()
+      iex> Verity.Clock.hello()
       :world
 
   """
